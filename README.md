@@ -1,6 +1,6 @@
 - 👋 **Group Name:** Learning Leopards
 - 👀 **Group Members:** Deveepria A/P Sankaran, Nur Irdina binti Mohd Shahrir, Thulasy A/P Chandran
-- 🌱 **Task description:-**
+- 🌱 **Task description:-** We explore a keyword-based spoken language understanding system, in which the intent of the user can directly be derived from the detection of a sequence of keywords in the query. We focus on the keyword spotting method and edge impulse which is the leading development platform for machine learning on edge devices and free for developers. Edge impulse is used to perform audio data classification.
 
 
 - 💞️ **Youtube:** 
